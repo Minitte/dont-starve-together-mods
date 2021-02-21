@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="5" height="5" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="C:/Program Files (x86)/Steam/steamapps/common/Don't Starve Mod Tools/mod_tools/Tiled/dont_starve/ground.tsx"/>
+ <layer name="BG_TILES" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOxKCYAY1GFscnh6wGACpUAPM=
+  </data>
+ </layer>
+ <objectgroup name="FG_OBJECTS" width="5" height="5">
+  <object name="bishop_nightmare" type="bishop_nightmare" x="162" y="183"/>
+  <object name="flower_cave" type="flower_cave" x="203" y="249"/>
+  <object name="flower_cave" type="flower_cave" x="291" y="134"/>
+  <object name="flower_cave" type="flower_cave" x="106" y="94"/>
+ </objectgroup>
+</map>
